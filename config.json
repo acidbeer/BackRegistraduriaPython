@@ -1,0 +1,7 @@
+{
+  "url-backend": "127.0.0.1",
+  "port": 9999,
+
+  "data-db-connection": "mongodb+srv://usuario_pruebas:Cocodrilo2022*@cluster0.vyydldc.mongodb.net/?retryWrites=true&w=majority",
+  "name-db": "bd-registraduria_Mintic"
+}
